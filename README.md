@@ -40,7 +40,7 @@ Names: Ashley Glitz Jaranilla; Qwyncy Eloise Caritativo; Margie Murcilla; Jaygun
 Course: BSIT
 Section: 1A
 School: St. Francis Xavier College
-Project page: https://jihoooon14.github.io/Hulaan-Bayan-Game/
+Project page: https://ashleyglitzjaranilla.github.io/Hulaan-Bayan-Game/
 
 SOURCE AND AUTHORSHIP
 The supplied source identifies GROUP 5 Advanced Hangman as its starting point.
