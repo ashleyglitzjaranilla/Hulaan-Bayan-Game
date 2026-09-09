@@ -41,6 +41,7 @@ Course: BSIT
 Section: 1A
 School: St. Francis Xavier College
 Project page: https://ashleyglitzjaranilla.github.io/Hulaan-Bayan-Game/
+
 Install the game by clicking the link below:
 https://drive.google.com/file/d/1qdZuUIGiRMqvgHitj52e-dPa9NCC7Naf/view
 
